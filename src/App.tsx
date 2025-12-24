@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
 import {
-  BookOpen, Target, Lock, ChevronRight, Brain, Award,
+  BookOpen, Lock, Brain,
   Lightbulb, FlaskConical, Calculator, Users, Languages, TrendingUp,
-  Check, ChevronDown, FileText, Tag, CheckSquare, Square
+  ChevronDown, FileText, Tag, CheckSquare, Square
 } from 'lucide-react';
 import { SABER11_DATA } from './data/saber11';
 import type { Area, Competence, Affirmation } from './data/saber11';
